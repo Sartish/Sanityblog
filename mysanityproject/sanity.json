@@ -1,4 +1,6 @@
 {
+  "name": "part:@sanity/base/schema",
+  "path": "./schemas/schema",
   "root": true,
   "project": {
     "name": "My Sanity Project"
